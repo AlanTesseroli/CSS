@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-color: linear-gradient(to top, white, blue);
+}
+h1{
+    color: brown;
+}
+h2{
+    color: chartreuse;
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+}
